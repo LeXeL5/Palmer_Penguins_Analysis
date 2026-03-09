@@ -6,10 +6,10 @@
 **Датасет:** Palmer Penguins (встроенный в Seaborn). Содержит характеристики пингвинов трёх видов (Adelie, Chinstrap, Gentoo).
 
 ## Структура репозитория
-- `1_EDA_and_preprocessing.ipynb` — первичный анализ данных, визуализация распределений, корреляций, обработка пропусков и выбросов.
-- `2_Feature_engineering_clustering.ipynb` — создание новых признаков (BMI, отношение клюва), кластеризация методом KMeans, оценка качества.
-- `3_Classification.ipynb` — построение моделей классификации вида (kNN, Decision Tree), подбор гиперпараметров, сравнение метрик.
-- `4_Regression.ipynb` — предсказание массы тела пингвина с помощью линейной регрессии, Random Forest и Gradient Boosting.
+- [`1_EDA_and_preprocessing.ipynb`](1_EDA_and_preprocessing.ipynb) — первичный анализ данных, визуализация распределений, корреляций, обработка пропусков и выбросов.
+- [`2_Feature_engineering_clustering.ipynb`](2_Feature_engineering_clustering.ipynb) — создание новых признаков (BMI, отношение клюва), кластеризация методом KMeans, оценка качества.
+- [`3_Classification.ipynb`](3_Classification.ipynb) — построение моделей классификации вида (kNN, Decision Tree), подбор гиперпараметров, сравнение метрик.
+- [`4_Regression.ipynb`](4_Regression.ipynb) — предсказание массы тела пингвина с помощью линейной регрессии, Random Forest и Gradient Boosting.
 
 ## Используемые технологии
 - Python 3
